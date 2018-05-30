@@ -1,2 +1,2 @@
-# restrain
-Simple JavaScript game
+**Restrain**
+<br>Simple JavaScript game
